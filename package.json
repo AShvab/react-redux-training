@@ -2,7 +2,7 @@
   "name": "react-redux-training",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-redux-training/",
+  "homepage": "https://AShvab.github.io/react-redux-training/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.5",
